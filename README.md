@@ -2,4 +2,4 @@
 
 Example code for the Gophership presentation (20/07/2019, Moscow).
 
-CC0 licence.
+MIT licence.
